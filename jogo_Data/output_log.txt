@@ -1,0 +1,45 @@
+Initialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX130 (ID=0x174d)
+    Vendor:   NVIDIA
+    VRAM:     2008 MB
+    Driver:   31.0.15.2883
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Projetos Unity\Jogos ITCH.IO\Sapo\jogo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Projetos Unity\Jogos ITCH.IO\Sapo\jogo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Projetos Unity\Jogos ITCH.IO\Sapo\jogo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Projetos Unity\Jogos ITCH.IO\Sapo\jogo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Projetos Unity\Jogos ITCH.IO\Sapo\jogo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Projetos Unity\Jogos ITCH.IO\Sapo\jogo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Projetos Unity\Jogos ITCH.IO\Sapo\jogo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Projetos Unity\Jogos ITCH.IO\Sapo\jogo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.545 seconds
+Platform assembly: E:\Projetos Unity\Jogos ITCH.IO\Sapo\jogo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Projetos Unity\Jogos ITCH.IO\Sapo\jogo_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.825200 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at SapoMove.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapoMove.OnTriggerEnter2D (UnityEngine.Collider2D objeto) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SapoMove.OnTriggerEnter2D (UnityEngine.Collider2D objeto) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4b60 -> priority: 1 
+  Thread -> id: 2f6c -> priority: 1 
+  Thread -> id: 2a0c -> priority: 1 
+  Thread -> id: 4d94 -> priority: 1 
