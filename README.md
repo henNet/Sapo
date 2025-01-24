@@ -12,7 +12,7 @@ Durante um curso de extensão sobre jogos no IFCE Campus Jaguaruana, surgiu a id
 
 ## Plataformas
 
-Windows, Web e Android
+Web e Android
 
 ## Controles
 
